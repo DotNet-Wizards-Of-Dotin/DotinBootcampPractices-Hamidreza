@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hamidreza", "Hamidreza", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{61F6097A-495B-4FFE-B777-DB4A12636E0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Methods and Practice Solution Folder", "Extension Methods and Practice Solution Folder\Extension Methods and Practice Solution Folder.csproj", "{C056BC2E-0223-466C-9187-F047850C4E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{61F6097A-495B-4FFE-B777-DB4A12636E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F6097A-495B-4FFE-B777-DB4A12636E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F6097A-495B-4FFE-B777-DB4A12636E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C056BC2E-0223-466C-9187-F047850C4E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C056BC2E-0223-466C-9187-F047850C4E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C056BC2E-0223-466C-9187-F047850C4E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C056BC2E-0223-466C-9187-F047850C4E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
