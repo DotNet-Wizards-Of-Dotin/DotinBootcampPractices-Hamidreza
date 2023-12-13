@@ -132,6 +132,8 @@
                     break;
             }
 
+            
+
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Mikhay Bazam Vaghteto Talaf Koni ? Y   N");
             string retry = Console.ReadLine().ToUpper();

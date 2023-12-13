@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create a Game ( Guess The Number )", "Create a Game ( Guess The Number )\Create a Game ( Guess The Number ).csproj", "{05914ACC-4007-427F-AD3F-3EE6FC9DA69C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create a Game ( Guess The Number )", "Create a Game ( Guess The Number )\Create a Game ( Guess The Number ).csproj", "{05914ACC-4007-427F-AD3F-3EE6FC9DA69C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create a CSV Program", "Create a CSV Program\Create a CSV Program.csproj", "{CC335F71-E17D-4001-B989-FD701E395B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create a CSV Program", "Create a CSV Program\Create a CSV Program.csproj", "{CC335F71-E17D-4001-B989-FD701E395B97}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hamidreza", "Hamidreza", "{8750AA89-8CC7-4763-9BE7-051FF13E6F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{61F6097A-495B-4FFE-B777-DB4A12636E0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "Tools\Tools.csproj", "{61F6097A-495B-4FFE-B777-DB4A12636E0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Methods and Practice Solution Folder", "Extension Methods and Practice Solution Folder\Extension Methods and Practice Solution Folder.csproj", "{C056BC2E-0223-466C-9187-F047850C4E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension Methods and Practice Solution Folder", "Extension Methods and Practice Solution Folder\Extension Methods and Practice Solution Folder.csproj", "{C056BC2E-0223-466C-9187-F047850C4E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get a SubFolders From a Folder in System ( Recursive Methods )", "Get a SubFolders From a Folder in System ( Recursive Methods )\Get a SubFolders From a Folder in System ( Recursive Methods ).csproj", "{0E326953-FA92-4589-A60E-B9F99125FDDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get a SubFolders From a Folder in System ( Recursive Methods )", "Get a SubFolders From a Folder in System ( Recursive Methods )\Get a SubFolders From a Folder in System ( Recursive Methods ).csproj", "{0E326953-FA92-4589-A60E-B9F99125FDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting Program", "Greeting Program\Greeting Program.csproj", "{655C2463-286E-45B5-8526-4152D748FDAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{0E326953-FA92-4589-A60E-B9F99125FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E326953-FA92-4589-A60E-B9F99125FDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E326953-FA92-4589-A60E-B9F99125FDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655C2463-286E-45B5-8526-4152D748FDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655C2463-286E-45B5-8526-4152D748FDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655C2463-286E-45B5-8526-4152D748FDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655C2463-286E-45B5-8526-4152D748FDAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
