@@ -25,6 +25,7 @@
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("BAREKALLAAAAHHHH YOU FOUND IT");
                         score += 10;
+                        Console.WriteLine(score);
                         if (score % 50 == 0)
                         {
                             lives++;
@@ -61,6 +62,7 @@
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("BAREKALLAAAAHHHH YOU FOUND IT");
                         score += 10;
+                        Console.WriteLine(score);
                         if (score % 50 == 0)
                         {
                             lives++;
@@ -97,7 +99,7 @@
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("BAREKALLAAAAHHHH YOU FOUND IT");
                         score += 10;
-                        
+                        Console.WriteLine(score);
                         if (score % 50 == 0)
                         {
                             lives++;
