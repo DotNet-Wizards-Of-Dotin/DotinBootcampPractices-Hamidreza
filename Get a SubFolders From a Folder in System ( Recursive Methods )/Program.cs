@@ -4,25 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-    public static class GetAllSubFolders
-    {
-        public static List<string> GetAllFiles(string path)
-        {
-            List<string> resault = new List<string>();
-            foreach (var file in Directory.GetFiles(path))
+            Console.WriteLine("List of my Dotin folder:");
+            foreach (var file in GetAllSubFolders.GetAllFiles("S:\\Dotin Bootcamp"))
             {
-                resault.Add(file);
+                Console.WriteLine(file);
             }
 
-            foreach (var directory in Directory.GetDirectories(path))
-            {
-                resault.AddRange(GetAllFiles(directory));
+            //another way :
 
-            }
-            return resault;
+            //Console.WriteLine($"List of my Dotin folder: {string.Join(", ", GetAllSubFolders.GetAllFiles("S:\\Dotin Bootcamp"))}");
+            //hamid testing
         }
     }
 }
