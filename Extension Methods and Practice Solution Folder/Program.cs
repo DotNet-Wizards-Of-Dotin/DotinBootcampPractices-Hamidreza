@@ -1,4 +1,5 @@
-﻿namespace Extension_Methods_and_Practice_Solution_Folder
+﻿using Tools;
+namespace Extension_Methods_and_Practice_Solution_Folder
 {
     internal class Program
     {
